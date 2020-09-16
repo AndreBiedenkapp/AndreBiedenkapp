@@ -6,6 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/AndreBiedenkapp)](https://twitter.com/AndreBiedenkapp)
 [![AutoML Badge](https://img.shields.io/badge/AutoML-Blog-beige?style=for-the-badge&labelColor=beige&link=https://www.automl.org/author/abiedenkapp/)](https://www.automl.org/author/abiedenkapp/)
 
+I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter and Marius Lindauer.
 <!--
 **AndreBiedenkapp/AndreBiedenkapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
