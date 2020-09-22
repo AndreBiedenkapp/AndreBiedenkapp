@@ -1,6 +1,6 @@
 ### André Biedenkapp
 
-I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter and Marius Lindauer.
+I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter and Marius Lindauer.<BR><BR>
 
 [Dynamic Algorithm Configuration](https://github.com/automl/DAC) | [AutoML](https://github.com/automl/SMAC3) | [Reinforcement Learning](https://github.com/automl/TabularTempoRL) | Learning to Learn
 
@@ -8,6 +8,7 @@ I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informa
 [![Orcid Badge](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&labelColor=A6CE39&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-8703-8559)](https://orcid.org/0000-0002-8703-8559)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/AndreBiedenkapp)](https://twitter.com/AndreBiedenkapp)
 [![AutoML Badge](https://img.shields.io/badge/AutoML-Blog-beige?style=for-the-badge&labelColor=beige&link=https://www.automl.org/author/abiedenkapp/)](https://www.automl.org/author/abiedenkapp/)
+<BR>
 <!--
 **AndreBiedenkapp/AndreBiedenkapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
