@@ -1,6 +1,6 @@
 ### André Biedenkapp
 
-I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter and Marius Lindauer.<BR><BR>
+I am a researcher at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html).<BR><BR>
 
 [Dynamic Algorithm Configuration](https://github.com/automl/DAC) | [AutoML](https://github.com/automl/SMAC3) | [Reinforcement Learning](https://github.com/automl/TabularTempoRL) | [Learning to Learn](https://github.com/automl/TabularTempoRL)
 
